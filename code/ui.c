@@ -299,7 +299,6 @@ lv_obj_t * ui_Screen3_Button8;
 lv_obj_t * ui_Screen3_Label7;
 lv_obj_t * ui_Screen4;
 lv_obj_t * ui_Screen4_Panel4;
-lv_obj_t * ui_Screen4_Label7;
 void ui_event_Screen4_Button2(lv_event_t * e);
 lv_obj_t * ui_Screen4_Button2;
 lv_obj_t * ui_Screen4_Label3;
@@ -334,7 +333,6 @@ lv_obj_t * ui_HomeLable4;
 lv_obj_t * ui_Screen4_Panel3;
 lv_obj_t * ui_Screen4_Keyboard1;
 lv_obj_t * ui____initial_actions0;
-const lv_img_dsc_t * ui_imgset_distant_planet_3d_1024x[1] = {&ui_img_distant_planet_3d_1024x600_png};
 
 ///////////////////// TEST LVGL SETTINGS ////////////////////
 #if LV_COLOR_DEPTH != 16
@@ -3949,18 +3947,6 @@ void ui_Screen4_screen_init(void)
     lv_obj_set_style_pad_top(ui_Screen4_Panel4, 0, LV_PART_SCROLLBAR | LV_STATE_SCROLLED);
     lv_obj_set_style_pad_bottom(ui_Screen4_Panel4, 0, LV_PART_SCROLLBAR | LV_STATE_SCROLLED);
 
-    ui_Screen4_Label7 = lv_label_create(ui_Screen4_Panel4);
-    lv_obj_set_width(ui_Screen4_Label7, LV_SIZE_CONTENT);   /// 1
-    lv_obj_set_height(ui_Screen4_Label7, LV_SIZE_CONTENT);    /// 1
-    lv_obj_set_x(ui_Screen4_Label7, -147);
-    lv_obj_set_y(ui_Screen4_Label7, 114);
-    lv_obj_set_align(ui_Screen4_Label7, LV_ALIGN_CENTER);
-    lv_label_set_text(ui_Screen4_Label7, "ETC  :");
-    lv_obj_set_style_text_color(ui_Screen4_Label7, lv_color_hex(0xFFFFFF), LV_PART_MAIN | LV_STATE_DEFAULT);
-    lv_obj_set_style_text_opa(ui_Screen4_Label7, 255, LV_PART_MAIN | LV_STATE_DEFAULT);
-    lv_obj_set_style_text_align(ui_Screen4_Label7, LV_TEXT_ALIGN_AUTO, LV_PART_MAIN | LV_STATE_DEFAULT);
-    lv_obj_set_style_text_font(ui_Screen4_Label7, &lv_font_montserrat_20, LV_PART_MAIN | LV_STATE_DEFAULT);
-
     ui_Screen4_Button2 = lv_btn_create(ui_Screen4_Panel4);
     lv_obj_set_width(ui_Screen4_Button2, 82);
     lv_obj_set_height(ui_Screen4_Button2, 43);
@@ -4009,11 +3995,11 @@ void ui_Screen4_screen_init(void)
     lv_obj_set_x(ui_MainIpPortLabel, -2);
     lv_obj_set_y(ui_MainIpPortLabel, -75);
     lv_obj_set_align(ui_MainIpPortLabel, LV_ALIGN_CENTER);
-    lv_label_set_text(ui_MainIpPortLabel, "Main IP Address & Port");
+    lv_label_set_text(ui_MainIpPortLabel, "IP 주소 & 포트 ");
     lv_obj_set_style_text_color(ui_MainIpPortLabel, lv_color_hex(0xDA8D2F), LV_PART_MAIN | LV_STATE_DEFAULT);
     lv_obj_set_style_text_opa(ui_MainIpPortLabel, 255, LV_PART_MAIN | LV_STATE_DEFAULT);
     lv_obj_set_style_text_align(ui_MainIpPortLabel, LV_TEXT_ALIGN_AUTO, LV_PART_MAIN | LV_STATE_DEFAULT);
-    lv_obj_set_style_text_font(ui_MainIpPortLabel, &lv_font_montserrat_20, LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_font(ui_MainIpPortLabel, &ui_font_malgum16, LV_PART_MAIN | LV_STATE_DEFAULT);
 
     ui_Screen4_TextArea1 = lv_textarea_create(ui_MainIpPanel);
     lv_obj_set_width(ui_Screen4_TextArea1, 163);
@@ -4099,11 +4085,11 @@ void ui_Screen4_screen_init(void)
     lv_obj_set_x(ui_ServerIpPortLabel, -2);
     lv_obj_set_y(ui_ServerIpPortLabel, -75);
     lv_obj_set_align(ui_ServerIpPortLabel, LV_ALIGN_CENTER);
-    lv_label_set_text(ui_ServerIpPortLabel, "Server IP Address & Port");
+    lv_label_set_text(ui_ServerIpPortLabel, "서버 IP 주소 & 포트 ");
     lv_obj_set_style_text_color(ui_ServerIpPortLabel, lv_color_hex(0x452FDA), LV_PART_MAIN | LV_STATE_DEFAULT);
     lv_obj_set_style_text_opa(ui_ServerIpPortLabel, 255, LV_PART_MAIN | LV_STATE_DEFAULT);
     lv_obj_set_style_text_align(ui_ServerIpPortLabel, LV_TEXT_ALIGN_AUTO, LV_PART_MAIN | LV_STATE_DEFAULT);
-    lv_obj_set_style_text_font(ui_ServerIpPortLabel, &lv_font_montserrat_20, LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_font(ui_ServerIpPortLabel, &ui_font_malgum16, LV_PART_MAIN | LV_STATE_DEFAULT);
 
     ui_Screen4_TextArea2 = lv_textarea_create(ui_ServerIpPanel);
     lv_obj_set_width(ui_Screen4_TextArea2, 163);

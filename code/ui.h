@@ -305,7 +305,6 @@ extern lv_obj_t * ui_Screen3_Button8;
 extern lv_obj_t * ui_Screen3_Label7;
 extern lv_obj_t * ui_Screen4;
 extern lv_obj_t * ui_Screen4_Panel4;
-extern lv_obj_t * ui_Screen4_Label7;
 void ui_event_Screen4_Button2(lv_event_t * e);
 extern lv_obj_t * ui_Screen4_Button2;
 extern lv_obj_t * ui_Screen4_Label3;
@@ -342,8 +341,6 @@ extern lv_obj_t * ui_Screen4_Keyboard1;
 extern lv_obj_t * ui____initial_actions0;
 
 
-LV_IMG_DECLARE(ui_img_distant_planet_3d_1024x600_png);    // assets\Distant Planet 3D_1024x600.png
-LV_IMG_DECLARE(ui_img_pngwing_com_png);    // assets\pngwing.com.png
 
 
 LV_FONT_DECLARE(ui_font_malgum16);
