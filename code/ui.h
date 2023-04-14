@@ -33,6 +33,9 @@ extern lv_obj_t * ui_Screen1_Label4;
 void ui_event_Screen1_Button3(lv_event_t * e);
 extern lv_obj_t * ui_Screen1_Button3;
 extern lv_obj_t * ui_Screen1_Label5;
+extern lv_obj_t * ui_statusLabel1;
+extern lv_obj_t * ui_statusLabel2;
+extern lv_obj_t * ui_statusLabel3;
 extern lv_obj_t * ui_Screen2;
 extern lv_obj_t * ui_StateBarPanel2;
 extern lv_obj_t * ui_TimeLabel2;
@@ -343,8 +346,10 @@ extern lv_obj_t * ui____initial_actions0;
 
 
 
+LV_FONT_DECLARE(ui_font_chosungu20);
 LV_FONT_DECLARE(ui_font_malgum16);
 LV_FONT_DECLARE(ui_font_Nanum40);
+LV_FONT_DECLARE(ui_font_dotnum24);
 
 
 void ui_init(void);

@@ -27,6 +27,9 @@ lv_obj_t * ui_Screen1_Label4;
 void ui_event_Screen1_Button3(lv_event_t * e);
 lv_obj_t * ui_Screen1_Button3;
 lv_obj_t * ui_Screen1_Label5;
+lv_obj_t * ui_statusLabel1;
+lv_obj_t * ui_statusLabel2;
+lv_obj_t * ui_statusLabel3;
 lv_obj_t * ui_Screen2;
 lv_obj_t * ui_StateBarPanel2;
 lv_obj_t * ui_TimeLabel2;
@@ -570,10 +573,10 @@ void ui_Screen1_screen_init(void)
     lv_obj_set_x(ui_TimeLabel1, 450);
     lv_obj_set_y(ui_TimeLabel1, 0);
     lv_obj_set_align(ui_TimeLabel1, LV_ALIGN_CENTER);
-    lv_label_set_text(ui_TimeLabel1, "10     53");
+    lv_label_set_text(ui_TimeLabel1, "10  53");
     lv_obj_set_style_text_color(ui_TimeLabel1, lv_color_hex(0xFFFFFF), LV_PART_MAIN | LV_STATE_DEFAULT);
     lv_obj_set_style_text_opa(ui_TimeLabel1, 255, LV_PART_MAIN | LV_STATE_DEFAULT);
-    lv_obj_set_style_text_font(ui_TimeLabel1, &lv_font_montserrat_24, LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_font(ui_TimeLabel1, &ui_font_dotnum24, LV_PART_MAIN | LV_STATE_DEFAULT);
 
     ui_dotLabal1 = lv_label_create(ui_TimeLabel1);
     lv_obj_set_width(ui_dotLabal1, LV_SIZE_CONTENT);   /// 1
@@ -704,6 +707,42 @@ void ui_Screen1_screen_init(void)
     lv_obj_set_style_text_opa(ui_Screen1_Label5, 255, LV_PART_MAIN | LV_STATE_DEFAULT);
     lv_obj_set_style_text_font(ui_Screen1_Label5, &ui_font_Nanum40, LV_PART_MAIN | LV_STATE_DEFAULT);
 
+    ui_statusLabel1 = lv_label_create(ui_Screen1);
+    lv_obj_set_width(ui_statusLabel1, LV_SIZE_CONTENT);   /// 1
+    lv_obj_set_height(ui_statusLabel1, LV_SIZE_CONTENT);    /// 1
+    lv_obj_set_x(ui_statusLabel1, 40);
+    lv_obj_set_y(ui_statusLabel1, -45);
+    lv_obj_set_align(ui_statusLabel1, LV_ALIGN_CENTER);
+    lv_label_set_text(ui_statusLabel1, "지속적인 감시를 통해 모터의 상태와 변화등을 확인 ");
+    lv_obj_set_style_text_color(ui_statusLabel1, lv_color_hex(0xFEFEFE), LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_opa(ui_statusLabel1, 255, LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_align(ui_statusLabel1, LV_TEXT_ALIGN_LEFT, LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_font(ui_statusLabel1, &ui_font_chosungu20, LV_PART_MAIN | LV_STATE_DEFAULT);
+
+    ui_statusLabel2 = lv_label_create(ui_Screen1);
+    lv_obj_set_width(ui_statusLabel2, LV_SIZE_CONTENT);   /// 1
+    lv_obj_set_height(ui_statusLabel2, LV_SIZE_CONTENT);    /// 1
+    lv_obj_set_x(ui_statusLabel2, 0);
+    lv_obj_set_y(ui_statusLabel2, 90);
+    lv_obj_set_align(ui_statusLabel2, LV_ALIGN_CENTER);
+    lv_label_set_text(ui_statusLabel2, "상태 문제를 시간별로 로그 형태로 기록");
+    lv_obj_set_style_text_color(ui_statusLabel2, lv_color_hex(0xFEFEFE), LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_opa(ui_statusLabel2, 255, LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_align(ui_statusLabel2, LV_TEXT_ALIGN_LEFT, LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_font(ui_statusLabel2, &ui_font_chosungu20, LV_PART_MAIN | LV_STATE_DEFAULT);
+
+    ui_statusLabel3 = lv_label_create(ui_Screen1);
+    lv_obj_set_width(ui_statusLabel3, LV_SIZE_CONTENT);   /// 1
+    lv_obj_set_height(ui_statusLabel3, LV_SIZE_CONTENT);    /// 1
+    lv_obj_set_x(ui_statusLabel3, -2);
+    lv_obj_set_y(ui_statusLabel3, 235);
+    lv_obj_set_align(ui_statusLabel3, LV_ALIGN_CENTER);
+    lv_label_set_text(ui_statusLabel3, "기본적인 환경설정 Slave B/D, 서버 IP 등");
+    lv_obj_set_style_text_color(ui_statusLabel3, lv_color_hex(0xFEFEFE), LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_opa(ui_statusLabel3, 255, LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_align(ui_statusLabel3, LV_TEXT_ALIGN_LEFT, LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_font(ui_statusLabel3, &ui_font_chosungu20, LV_PART_MAIN | LV_STATE_DEFAULT);
+
     lv_obj_add_event_cb(ui_Screen1_Button1, ui_event_Screen1_Button1, LV_EVENT_ALL, NULL);
     lv_obj_add_event_cb(ui_Screen1_Button2, ui_event_Screen1_Button2, LV_EVENT_ALL, NULL);
     lv_obj_add_event_cb(ui_Screen1_Button3, ui_event_Screen1_Button3, LV_EVENT_ALL, NULL);
@@ -739,10 +778,10 @@ void ui_Screen2_screen_init(void)
     lv_obj_set_x(ui_TimeLabel2, 450);
     lv_obj_set_y(ui_TimeLabel2, 0);
     lv_obj_set_align(ui_TimeLabel2, LV_ALIGN_CENTER);
-    lv_label_set_text(ui_TimeLabel2, "10    53");
+    lv_label_set_text(ui_TimeLabel2, "10  53");
     lv_obj_set_style_text_color(ui_TimeLabel2, lv_color_hex(0xFFFFFF), LV_PART_MAIN | LV_STATE_DEFAULT);
     lv_obj_set_style_text_opa(ui_TimeLabel2, 255, LV_PART_MAIN | LV_STATE_DEFAULT);
-    lv_obj_set_style_text_font(ui_TimeLabel2, &lv_font_montserrat_24, LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_font(ui_TimeLabel2, &ui_font_dotnum24, LV_PART_MAIN | LV_STATE_DEFAULT);
 
     ui_dotLabal2 = lv_label_create(ui_TimeLabel2);
     lv_obj_set_width(ui_dotLabal2, LV_SIZE_CONTENT);   /// 1
@@ -3640,10 +3679,10 @@ void ui_Screen3_screen_init(void)
     lv_obj_set_x(ui_TimeLabel3, 450);
     lv_obj_set_y(ui_TimeLabel3, 0);
     lv_obj_set_align(ui_TimeLabel3, LV_ALIGN_CENTER);
-    lv_label_set_text(ui_TimeLabel3, "10    53");
+    lv_label_set_text(ui_TimeLabel3, "10  53");
     lv_obj_set_style_text_color(ui_TimeLabel3, lv_color_hex(0xFFFFFF), LV_PART_MAIN | LV_STATE_DEFAULT);
     lv_obj_set_style_text_opa(ui_TimeLabel3, 255, LV_PART_MAIN | LV_STATE_DEFAULT);
-    lv_obj_set_style_text_font(ui_TimeLabel3, &lv_font_montserrat_24, LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_font(ui_TimeLabel3, &ui_font_dotnum24, LV_PART_MAIN | LV_STATE_DEFAULT);
 
     ui_dotLabal3 = lv_label_create(ui_TimeLabel3);
     lv_obj_set_width(ui_dotLabal3, LV_SIZE_CONTENT);   /// 1
@@ -4175,10 +4214,10 @@ void ui_Screen4_screen_init(void)
     lv_obj_set_x(ui_TimeLabel4, 450);
     lv_obj_set_y(ui_TimeLabel4, 0);
     lv_obj_set_align(ui_TimeLabel4, LV_ALIGN_CENTER);
-    lv_label_set_text(ui_TimeLabel4, "10    53");
+    lv_label_set_text(ui_TimeLabel4, "10  53");
     lv_obj_set_style_text_color(ui_TimeLabel4, lv_color_hex(0xFFFFFF), LV_PART_MAIN | LV_STATE_DEFAULT);
     lv_obj_set_style_text_opa(ui_TimeLabel4, 255, LV_PART_MAIN | LV_STATE_DEFAULT);
-    lv_obj_set_style_text_font(ui_TimeLabel4, &lv_font_montserrat_24, LV_PART_MAIN | LV_STATE_DEFAULT);
+    lv_obj_set_style_text_font(ui_TimeLabel4, &ui_font_dotnum24, LV_PART_MAIN | LV_STATE_DEFAULT);
 
     ui_dotLabal4 = lv_label_create(ui_TimeLabel4);
     lv_obj_set_width(ui_dotLabal4, LV_SIZE_CONTENT);   /// 1

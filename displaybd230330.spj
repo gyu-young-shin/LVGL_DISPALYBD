@@ -1205,7 +1205,7 @@
                   {
                     "nid": -1699429035,
                     "strtype": "LABEL/Text",
-                    "strval": "10     53",
+                    "strval": "10  53",
                     "InheritedType": 10
                   },
                   {
@@ -1235,7 +1235,7 @@
                           {
                             "nid": 1836327030,
                             "strtype": "_style/Text_Font",
-                            "strval": "montserrat_24",
+                            "strval": "dotnum24",
                             "InheritedType": 3
                           },
                           {
@@ -3596,7 +3596,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": 641365825,
+                        "nid": 865173275,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -3634,7 +3634,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": -1593241577,
+                        "nid": 793500974,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -3672,7 +3672,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": -325212297,
+                        "nid": 635948729,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -3710,7 +3710,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": -1184939007,
+                        "nid": 1815996294,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -3748,7 +3748,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": -1599727985,
+                        "nid": 1452057033,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -3786,7 +3786,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": -160957119,
+                        "nid": 2060491279,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -3804,7 +3804,7 @@
                     "strval": "USER_1",
                     "childs": [
                       {
-                        "nid": -163884504,
+                        "nid": 551106845,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       }
@@ -3817,7 +3817,7 @@
                     "strval": "USER_2",
                     "childs": [
                       {
-                        "nid": 1067929139,
+                        "nid": -2107410945,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       }
@@ -3830,7 +3830,7 @@
                     "strval": "USER_3",
                     "childs": [
                       {
-                        "nid": -2082761900,
+                        "nid": -1847462787,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       }
@@ -3843,7 +3843,7 @@
                     "strval": "USER_4",
                     "childs": [
                       {
-                        "nid": -1070725171,
+                        "nid": -1310318638,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       }
@@ -4614,7 +4614,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": 1995263371,
+                        "nid": 864357691,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -4652,7 +4652,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": 1170599051,
+                        "nid": -1199747173,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -4690,7 +4690,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": -1586510861,
+                        "nid": 450154951,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -4728,7 +4728,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": 410578152,
+                        "nid": 1439228261,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -4766,7 +4766,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": -1340205809,
+                        "nid": 437674887,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -4804,7 +4804,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": 217809416,
+                        "nid": -1696561325,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -4822,7 +4822,7 @@
                     "strval": "USER_1",
                     "childs": [
                       {
-                        "nid": -967852029,
+                        "nid": 1467244886,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       }
@@ -4835,7 +4835,7 @@
                     "strval": "USER_2",
                     "childs": [
                       {
-                        "nid": -360492600,
+                        "nid": 1705862705,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       }
@@ -4848,7 +4848,7 @@
                     "strval": "USER_3",
                     "childs": [
                       {
-                        "nid": 1077340221,
+                        "nid": -621928184,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       }
@@ -4861,7 +4861,7 @@
                     "strval": "USER_4",
                     "childs": [
                       {
-                        "nid": 389444774,
+                        "nid": -316309194,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       }
@@ -5582,7 +5582,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": 611228714,
+                        "nid": 1492307710,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -5620,7 +5620,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": -825118421,
+                        "nid": -1572764385,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -5658,7 +5658,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": -1479814140,
+                        "nid": 2009571854,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -5696,7 +5696,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": -1168825594,
+                        "nid": -1948408000,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -5734,7 +5734,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": 1699578047,
+                        "nid": 589019260,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -5772,7 +5772,7 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": 1242560152,
+                        "nid": 613338743,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       },
@@ -5790,7 +5790,7 @@
                     "strval": "USER_1",
                     "childs": [
                       {
-                        "nid": 1212145399,
+                        "nid": 1248183026,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       }
@@ -5803,7 +5803,7 @@
                     "strval": "USER_2",
                     "childs": [
                       {
-                        "nid": -1307082463,
+                        "nid": 1175280473,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       }
@@ -5816,7 +5816,7 @@
                     "strval": "USER_3",
                     "childs": [
                       {
-                        "nid": 437270854,
+                        "nid": -1457779738,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       }
@@ -5829,7 +5829,7 @@
                     "strval": "USER_4",
                     "childs": [
                       {
-                        "nid": 1793523411,
+                        "nid": -694511497,
                         "strtype": "_style/Paddings",
                         "InheritedType": 1
                       }
@@ -5919,6 +5919,927 @@
               }
             ],
             "saved_objtypeKey": "BUTTON"
+          },
+          {
+            "guid": "GUID21747090-413788S839293",
+            "deepid": -1960297013,
+            "locked": false,
+            "properties": [
+              {
+                "nid": -1986966995,
+                "strtype": "OBJECT/Name",
+                "strval": "statusLabel1",
+                "InheritedType": 10
+              },
+              {
+                "nid": -434617848,
+                "strtype": "OBJECT/Layout",
+                "InheritedType": 1
+              },
+              {
+                "Flow": 0,
+                "Wrap": false,
+                "Reversed": false,
+                "MainAlignment": 0,
+                "CrossAlignment": 0,
+                "TrackAlignment": 0,
+                "LayoutType": 0,
+                "nid": 866756972,
+                "strtype": "OBJECT/Layout_type",
+                "strval": "No_layout",
+                "InheritedType": 13
+              },
+              {
+                "nid": 2098101239,
+                "strtype": "OBJECT/Transform",
+                "InheritedType": 1
+              },
+              {
+                "nid": -857985718,
+                "flags": 17,
+                "strtype": "OBJECT/Position",
+                "intarray": [
+                  40,
+                  -45
+                ],
+                "InheritedType": 7
+              },
+              {
+                "nid": 1297390620,
+                "flags": 51,
+                "strtype": "OBJECT/Size",
+                "intarray": [
+                  1,
+                  1
+                ],
+                "InheritedType": 7
+              },
+              {
+                "nid": 404049422,
+                "strtype": "OBJECT/Align",
+                "strval": "CENTER",
+                "InheritedType": 3
+              },
+              {
+                "nid": 1121546785,
+                "flags": 1048576,
+                "strtype": "OBJECT/Flags",
+                "InheritedType": 1
+              },
+              {
+                "nid": -1083529275,
+                "strtype": "OBJECT/Hidden",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -981962655,
+                "strtype": "OBJECT/Clickable",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1755616495,
+                "strtype": "OBJECT/Checkable",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 674267139,
+                "strtype": "OBJECT/Press_lock",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1981013319,
+                "strtype": "OBJECT/Click_focusable",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": -619785674,
+                "strtype": "OBJECT/Adv_hittest",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -2130758759,
+                "strtype": "OBJECT/Ignore_layout",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1323436311,
+                "strtype": "OBJECT/Floating",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -782747774,
+                "strtype": "OBJECT/Flex_in_new_track",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1989984215,
+                "strtype": "OBJECT/Event_bubble",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1638924379,
+                "strtype": "OBJECT/Gesture_bubble",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": -278445351,
+                "strtype": "OBJECT/Snappable",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": 968008754,
+                "strtype": "OBJECT/Scrollable",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": 830198597,
+                "strtype": "OBJECT/Scroll_elastic",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1961195976,
+                "strtype": "OBJECT/Scroll_momentum",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": -38073080,
+                "strtype": "OBJECT/Scroll_on_focus",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1051033646,
+                "strtype": "OBJECT/Scroll_chain",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": 733107189,
+                "strtype": "OBJECT/Scroll_one",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -959708240,
+                "strtype": "OBJECT/Scrollbar_mode",
+                "strval": "AUTO",
+                "InheritedType": 3
+              },
+              {
+                "nid": -988695542,
+                "strtype": "OBJECT/Scroll_direction",
+                "strval": "ALL",
+                "InheritedType": 3
+              },
+              {
+                "nid": -209704543,
+                "flags": 1048576,
+                "strtype": "OBJECT/States",
+                "InheritedType": 1
+              },
+              {
+                "nid": 1089633043,
+                "strtype": "OBJECT/Checked",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -436914094,
+                "strtype": "OBJECT/Disabled",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 605364774,
+                "strtype": "OBJECT/Focused",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1210019378,
+                "strtype": "OBJECT/Pressed",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 240360035,
+                "strtype": "OBJECT/User_1",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 144564879,
+                "strtype": "OBJECT/User_2",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 595301038,
+                "strtype": "OBJECT/User_3",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 965944459,
+                "strtype": "OBJECT/User_4",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 827960455,
+                "strtype": "LABEL/Label",
+                "InheritedType": 1
+              },
+              {
+                "nid": -2107039976,
+                "strtype": "LABEL/Long_mode",
+                "strval": "WRAP",
+                "InheritedType": 3
+              },
+              {
+                "nid": -594175948,
+                "strtype": "LABEL/Text",
+                "strval": "지속적인 감시를 통해 모터의 상태와 변화등을 확인 ",
+                "InheritedType": 10
+              },
+              {
+                "part": "lv.PART.MAIN",
+                "childs": [
+                  {
+                    "nid": -362384569,
+                    "strtype": "_style/StyleState",
+                    "strval": "DEFAULT",
+                    "childs": [
+                      {
+                        "nid": -310990981,
+                        "strtype": "_style/Text_Color",
+                        "intarray": [
+                          254,
+                          254,
+                          254,
+                          255
+                        ],
+                        "InheritedType": 7
+                      },
+                      {
+                        "nid": -434241914,
+                        "strtype": "_style/Text_Align",
+                        "strval": "LEFT",
+                        "InheritedType": 3
+                      },
+                      {
+                        "nid": 1371624171,
+                        "strtype": "_style/Text_Font",
+                        "strval": "chosungu20",
+                        "InheritedType": 3
+                      }
+                    ],
+                    "InheritedType": 1
+                  }
+                ],
+                "nid": 984863607,
+                "strtype": "LABEL/Style_main",
+                "strval": "lv.PART.MAIN, Text, Rectangle, Pad",
+                "InheritedType": 11
+              },
+              {
+                "nid": 1783685122,
+                "strtype": "LABEL/Recolor",
+                "strval": "False",
+                "InheritedType": 2
+              }
+            ],
+            "saved_objtypeKey": "LABEL",
+            "tree_closed": true
+          },
+          {
+            "guid": "GUID12718520-414604S414293",
+            "deepid": -1960297013,
+            "locked": false,
+            "properties": [
+              {
+                "nid": -813032792,
+                "strtype": "OBJECT/Name",
+                "strval": "statusLabel2",
+                "InheritedType": 10
+              },
+              {
+                "nid": 1977809458,
+                "strtype": "OBJECT/Layout",
+                "InheritedType": 1
+              },
+              {
+                "Flow": 0,
+                "Wrap": false,
+                "Reversed": false,
+                "MainAlignment": 0,
+                "CrossAlignment": 0,
+                "TrackAlignment": 0,
+                "LayoutType": 0,
+                "nid": 29145383,
+                "strtype": "OBJECT/Layout_type",
+                "strval": "No_layout",
+                "InheritedType": 13
+              },
+              {
+                "nid": 2134892626,
+                "strtype": "OBJECT/Transform",
+                "InheritedType": 1
+              },
+              {
+                "nid": 1569650826,
+                "flags": 17,
+                "strtype": "OBJECT/Position",
+                "intarray": [
+                  0,
+                  90
+                ],
+                "InheritedType": 7
+              },
+              {
+                "nid": -505165136,
+                "flags": 51,
+                "strtype": "OBJECT/Size",
+                "intarray": [
+                  1,
+                  1
+                ],
+                "InheritedType": 7
+              },
+              {
+                "nid": -1313235074,
+                "strtype": "OBJECT/Align",
+                "strval": "CENTER",
+                "InheritedType": 3
+              },
+              {
+                "nid": -171374002,
+                "flags": 1048576,
+                "strtype": "OBJECT/Flags",
+                "InheritedType": 1
+              },
+              {
+                "nid": 1539404097,
+                "strtype": "OBJECT/Hidden",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1078906542,
+                "strtype": "OBJECT/Clickable",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -491402425,
+                "strtype": "OBJECT/Checkable",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1937274348,
+                "strtype": "OBJECT/Press_lock",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1235864355,
+                "strtype": "OBJECT/Click_focusable",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": -633854313,
+                "strtype": "OBJECT/Adv_hittest",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1990097510,
+                "strtype": "OBJECT/Ignore_layout",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1560302189,
+                "strtype": "OBJECT/Floating",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 776602394,
+                "strtype": "OBJECT/Flex_in_new_track",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1813978983,
+                "strtype": "OBJECT/Event_bubble",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1747443185,
+                "strtype": "OBJECT/Gesture_bubble",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": 181442372,
+                "strtype": "OBJECT/Snappable",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1146405177,
+                "strtype": "OBJECT/Scrollable",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": 2031811268,
+                "strtype": "OBJECT/Scroll_elastic",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1210588495,
+                "strtype": "OBJECT/Scroll_momentum",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": -2075327591,
+                "strtype": "OBJECT/Scroll_on_focus",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1579359091,
+                "strtype": "OBJECT/Scroll_chain",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": 443656537,
+                "strtype": "OBJECT/Scroll_one",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -443463157,
+                "strtype": "OBJECT/Scrollbar_mode",
+                "strval": "AUTO",
+                "InheritedType": 3
+              },
+              {
+                "nid": 2104416400,
+                "strtype": "OBJECT/Scroll_direction",
+                "strval": "ALL",
+                "InheritedType": 3
+              },
+              {
+                "nid": 291449882,
+                "flags": 1048576,
+                "strtype": "OBJECT/States",
+                "InheritedType": 1
+              },
+              {
+                "nid": -194562451,
+                "strtype": "OBJECT/Checked",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1523599625,
+                "strtype": "OBJECT/Disabled",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1654096026,
+                "strtype": "OBJECT/Focused",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 420037583,
+                "strtype": "OBJECT/Pressed",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1623528918,
+                "strtype": "OBJECT/User_1",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1063753770,
+                "strtype": "OBJECT/User_2",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1643913878,
+                "strtype": "OBJECT/User_3",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -122045873,
+                "strtype": "OBJECT/User_4",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1763732294,
+                "strtype": "LABEL/Label",
+                "InheritedType": 1
+              },
+              {
+                "nid": -1229881890,
+                "strtype": "LABEL/Long_mode",
+                "strval": "WRAP",
+                "InheritedType": 3
+              },
+              {
+                "nid": 1691432031,
+                "strtype": "LABEL/Text",
+                "strval": "상태 문제를 시간별로 로그 형태로 기록",
+                "InheritedType": 10
+              },
+              {
+                "part": "lv.PART.MAIN",
+                "childs": [
+                  {
+                    "nid": 906856739,
+                    "strtype": "_style/StyleState",
+                    "strval": "DEFAULT",
+                    "childs": [
+                      {
+                        "nid": 1581303583,
+                        "strtype": "_style/Text_Color",
+                        "intarray": [
+                          254,
+                          254,
+                          254,
+                          255
+                        ],
+                        "InheritedType": 7
+                      },
+                      {
+                        "nid": 1835868239,
+                        "strtype": "_style/Text_Align",
+                        "strval": "LEFT",
+                        "InheritedType": 3
+                      },
+                      {
+                        "nid": 1778686134,
+                        "strtype": "_style/Text_Font",
+                        "strval": "chosungu20",
+                        "InheritedType": 3
+                      }
+                    ],
+                    "InheritedType": 1
+                  }
+                ],
+                "nid": 1671451804,
+                "strtype": "LABEL/Style_main",
+                "strval": "lv.PART.MAIN, Text, Rectangle, Pad",
+                "InheritedType": 11
+              },
+              {
+                "nid": -900062000,
+                "strtype": "LABEL/Recolor",
+                "strval": "False",
+                "InheritedType": 2
+              }
+            ],
+            "saved_objtypeKey": "LABEL",
+            "tree_closed": true
+          },
+          {
+            "guid": "GUID17670450-415007S829293",
+            "deepid": -1960297013,
+            "locked": false,
+            "properties": [
+              {
+                "nid": 1871280408,
+                "strtype": "OBJECT/Name",
+                "strval": "statusLabel3",
+                "InheritedType": 10
+              },
+              {
+                "nid": -1412297054,
+                "strtype": "OBJECT/Layout",
+                "InheritedType": 1
+              },
+              {
+                "Flow": 0,
+                "Wrap": false,
+                "Reversed": false,
+                "MainAlignment": 0,
+                "CrossAlignment": 0,
+                "TrackAlignment": 0,
+                "LayoutType": 0,
+                "nid": 1874944104,
+                "strtype": "OBJECT/Layout_type",
+                "strval": "No_layout",
+                "InheritedType": 13
+              },
+              {
+                "nid": -1958657344,
+                "strtype": "OBJECT/Transform",
+                "InheritedType": 1
+              },
+              {
+                "nid": -1263111221,
+                "flags": 17,
+                "strtype": "OBJECT/Position",
+                "intarray": [
+                  -2,
+                  235
+                ],
+                "InheritedType": 7
+              },
+              {
+                "nid": -1346070265,
+                "flags": 51,
+                "strtype": "OBJECT/Size",
+                "intarray": [
+                  1,
+                  1
+                ],
+                "InheritedType": 7
+              },
+              {
+                "nid": 645722893,
+                "strtype": "OBJECT/Align",
+                "strval": "CENTER",
+                "InheritedType": 3
+              },
+              {
+                "nid": -477625282,
+                "flags": 1048576,
+                "strtype": "OBJECT/Flags",
+                "InheritedType": 1
+              },
+              {
+                "nid": 928021550,
+                "strtype": "OBJECT/Hidden",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1728371738,
+                "strtype": "OBJECT/Clickable",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1416676253,
+                "strtype": "OBJECT/Checkable",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 411030098,
+                "strtype": "OBJECT/Press_lock",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1229347475,
+                "strtype": "OBJECT/Click_focusable",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": -987588743,
+                "strtype": "OBJECT/Adv_hittest",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 298174996,
+                "strtype": "OBJECT/Ignore_layout",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1334736777,
+                "strtype": "OBJECT/Floating",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1133146926,
+                "strtype": "OBJECT/Flex_in_new_track",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -424246148,
+                "strtype": "OBJECT/Event_bubble",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 196993027,
+                "strtype": "OBJECT/Gesture_bubble",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1141808410,
+                "strtype": "OBJECT/Snappable",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": 2089193723,
+                "strtype": "OBJECT/Scrollable",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": -462960740,
+                "strtype": "OBJECT/Scroll_elastic",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1973272780,
+                "strtype": "OBJECT/Scroll_momentum",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1462324947,
+                "strtype": "OBJECT/Scroll_on_focus",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -2025905945,
+                "strtype": "OBJECT/Scroll_chain",
+                "strval": "True",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1531967008,
+                "strtype": "OBJECT/Scroll_one",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1514194190,
+                "strtype": "OBJECT/Scrollbar_mode",
+                "strval": "AUTO",
+                "InheritedType": 3
+              },
+              {
+                "nid": -794662428,
+                "strtype": "OBJECT/Scroll_direction",
+                "strval": "ALL",
+                "InheritedType": 3
+              },
+              {
+                "nid": -2049862967,
+                "flags": 1048576,
+                "strtype": "OBJECT/States",
+                "InheritedType": 1
+              },
+              {
+                "nid": -1207018987,
+                "strtype": "OBJECT/Checked",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1407241103,
+                "strtype": "OBJECT/Disabled",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1723577663,
+                "strtype": "OBJECT/Focused",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -988110386,
+                "strtype": "OBJECT/Pressed",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 1561721992,
+                "strtype": "OBJECT/User_1",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1205843852,
+                "strtype": "OBJECT/User_2",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -103263889,
+                "strtype": "OBJECT/User_3",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": -1381023919,
+                "strtype": "OBJECT/User_4",
+                "strval": "False",
+                "InheritedType": 2
+              },
+              {
+                "nid": 267038135,
+                "strtype": "LABEL/Label",
+                "InheritedType": 1
+              },
+              {
+                "nid": 1839011238,
+                "strtype": "LABEL/Long_mode",
+                "strval": "WRAP",
+                "InheritedType": 3
+              },
+              {
+                "nid": -27569774,
+                "strtype": "LABEL/Text",
+                "strval": "기본적인 환경설정 Slave B/D, 서버 IP 등",
+                "InheritedType": 10
+              },
+              {
+                "part": "lv.PART.MAIN",
+                "childs": [
+                  {
+                    "nid": 1116571264,
+                    "strtype": "_style/StyleState",
+                    "strval": "DEFAULT",
+                    "childs": [
+                      {
+                        "nid": 1017863234,
+                        "strtype": "_style/Text_Color",
+                        "intarray": [
+                          254,
+                          254,
+                          254,
+                          255
+                        ],
+                        "InheritedType": 7
+                      },
+                      {
+                        "nid": 1992524198,
+                        "strtype": "_style/Text_Align",
+                        "strval": "LEFT",
+                        "InheritedType": 3
+                      },
+                      {
+                        "nid": 1224112834,
+                        "strtype": "_style/Text_Font",
+                        "strval": "chosungu20",
+                        "InheritedType": 3
+                      }
+                    ],
+                    "InheritedType": 1
+                  }
+                ],
+                "nid": 1071626622,
+                "strtype": "LABEL/Style_main",
+                "strval": "lv.PART.MAIN, Text, Rectangle, Pad",
+                "InheritedType": 11
+              },
+              {
+                "nid": 1456632574,
+                "strtype": "LABEL/Recolor",
+                "strval": "False",
+                "InheritedType": 2
+              }
+            ],
+            "saved_objtypeKey": "LABEL",
+            "tree_closed": true
           }
         ],
         "isPage": true,
@@ -6125,7 +7046,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": -860763283,
+                    "nid": -69416840,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -6163,7 +7084,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": -1791476847,
+                    "nid": 981775181,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -6201,7 +7122,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": -2106925386,
+                    "nid": -12974666,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -6239,7 +7160,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": -2129198796,
+                    "nid": 313397247,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -6277,7 +7198,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": -1115376163,
+                    "nid": -315224779,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -6295,7 +7216,7 @@
                 "strval": "USER_1",
                 "childs": [
                   {
-                    "nid": 1673951266,
+                    "nid": 845866876,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -6308,7 +7229,7 @@
                 "strval": "USER_2",
                 "childs": [
                   {
-                    "nid": -78357548,
+                    "nid": 1448684244,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -6321,7 +7242,7 @@
                 "strval": "USER_3",
                 "childs": [
                   {
-                    "nid": -1568090183,
+                    "nid": 1833248579,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -6334,7 +7255,7 @@
                 "strval": "USER_4",
                 "childs": [
                   {
-                    "nid": 123408494,
+                    "nid": -905113490,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -6896,7 +7817,7 @@
                   {
                     "nid": -301414374,
                     "strtype": "LABEL/Text",
-                    "strval": "10    53",
+                    "strval": "10  53",
                     "InheritedType": 10
                   },
                   {
@@ -6926,7 +7847,7 @@
                           {
                             "nid": 1976865524,
                             "strtype": "_style/Text_Font",
-                            "strval": "montserrat_24",
+                            "strval": "dotnum24",
                             "InheritedType": 3
                           },
                           {
@@ -8397,7 +9318,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1600364574,
+                            "nid": -792286192,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -8474,7 +9395,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1092053850,
+                            "nid": -1855999900,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -8512,7 +9433,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1836378406,
+                            "nid": -1688573830,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -8550,7 +9471,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -660085632,
+                            "nid": 824204291,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -8588,7 +9509,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -41820581,
+                            "nid": 254736351,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -8626,7 +9547,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1230145477,
+                            "nid": -1461560158,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -8644,7 +9565,7 @@
                         "strval": "USER_1",
                         "childs": [
                           {
-                            "nid": 567040663,
+                            "nid": 1997738000,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -8657,7 +9578,7 @@
                         "strval": "USER_2",
                         "childs": [
                           {
-                            "nid": -536009810,
+                            "nid": 1317431758,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -8670,7 +9591,7 @@
                         "strval": "USER_3",
                         "childs": [
                           {
-                            "nid": -880410533,
+                            "nid": -1651305279,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -8683,7 +9604,7 @@
                         "strval": "USER_4",
                         "childs": [
                           {
-                            "nid": -53308564,
+                            "nid": 333359210,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -20788,7 +21709,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -317548682,
+                                "nid": 615515096,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -20826,7 +21747,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1357706606,
+                                "nid": -904829374,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -20864,7 +21785,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -128446739,
+                                "nid": 370461412,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -20902,7 +21823,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -288027932,
+                                "nid": -937069099,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -20940,7 +21861,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1400082613,
+                                "nid": 1506769079,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -20978,7 +21899,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1925322644,
+                                "nid": -395325183,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -20996,7 +21917,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": -854028266,
+                                "nid": 258057457,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -21009,7 +21930,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": -733702486,
+                                "nid": -2091179817,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -21022,7 +21943,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": 1273997118,
+                                "nid": 971387589,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -21035,7 +21956,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": 2082843584,
+                                "nid": -241452814,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -21081,7 +22002,7 @@
                                 "InheritedType": 7
                               },
                               {
-                                "nid": 489172872,
+                                "nid": 2024950592,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -21099,7 +22020,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1896050518,
+                                "nid": -219103032,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -21117,7 +22038,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 175703469,
+                                "nid": -1096333504,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -21135,7 +22056,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 602318455,
+                                "nid": 171826268,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -21153,7 +22074,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1830087243,
+                                "nid": 144505689,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -21171,7 +22092,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -257238047,
+                                "nid": 2070591844,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -21184,7 +22105,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": 238732848,
+                                "nid": -731096099,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -21197,7 +22118,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": 1255157644,
+                                "nid": 1864744116,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -21210,7 +22131,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": 754127931,
+                                "nid": 1146510621,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -21223,7 +22144,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": -1682314731,
+                                "nid": 1020420568,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -21281,7 +22202,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -215856349,
+                                "nid": -1320114305,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -21319,7 +22240,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1164914597,
+                                "nid": -1449462679,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -21357,7 +22278,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -790370182,
+                                "nid": 1572079202,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -21395,7 +22316,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 773547470,
+                                "nid": -1355328621,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -21433,7 +22354,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 172719077,
+                                "nid": -1696552514,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -21471,7 +22392,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1812279109,
+                                "nid": -1241535667,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -21484,7 +22405,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": 914097448,
+                                "nid": -751499090,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -21497,7 +22418,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": -546045878,
+                                "nid": -184286252,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -21510,7 +22431,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": -2014115536,
+                                "nid": -1582685174,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -21523,7 +22444,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": -2070844110,
+                                "nid": -1476369610,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -21853,8 +22774,7 @@
                     "InheritedType": 11
                   }
                 ],
-                "saved_objtypeKey": "PANEL",
-                "tree_closed": true
+                "saved_objtypeKey": "PANEL"
               }
             ],
             "locked": false,
@@ -32804,7 +33724,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1693234956,
+                                "nid": -1959675814,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -32842,7 +33762,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1915447515,
+                                "nid": 180868263,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -32880,7 +33800,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -74730916,
+                                "nid": 1528007989,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -32918,7 +33838,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 761367012,
+                                "nid": 770035927,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -32956,7 +33876,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -320338491,
+                                "nid": -576712020,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -32994,7 +33914,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1216501606,
+                                "nid": -1523744887,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -33012,7 +33932,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": -195982767,
+                                "nid": -1920532850,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -33025,7 +33945,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": 1194268781,
+                                "nid": 1098323618,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -33038,7 +33958,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": 1806013622,
+                                "nid": -227899816,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -33051,7 +33971,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": 410275597,
+                                "nid": -156882027,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -33097,7 +34017,7 @@
                                 "InheritedType": 7
                               },
                               {
-                                "nid": -1714602052,
+                                "nid": -820363622,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -33115,7 +34035,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1029901566,
+                                "nid": -1410553944,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -33133,7 +34053,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -2004366216,
+                                "nid": 1833649894,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -33151,7 +34071,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -172289512,
+                                "nid": 406152668,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -33169,7 +34089,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -2048235584,
+                                "nid": -205699208,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -33187,7 +34107,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 2131969368,
+                                "nid": 443187013,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -33200,7 +34120,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": 2040334644,
+                                "nid": 77207804,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -33213,7 +34133,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": -1206068558,
+                                "nid": -952403445,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -33226,7 +34146,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": 1181877860,
+                                "nid": -1758707567,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -33239,7 +34159,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": -363055100,
+                                "nid": 1116837142,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -33297,7 +34217,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -2027452106,
+                                "nid": 2122827724,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -33335,7 +34255,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 99027687,
+                                "nid": 442073880,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -33373,7 +34293,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 635556260,
+                                "nid": -200941400,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -33411,7 +34331,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 238361445,
+                                "nid": 414428231,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -33449,7 +34369,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1171628679,
+                                "nid": -692580349,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -33487,7 +34407,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -582934159,
+                                "nid": 422076724,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -33500,7 +34420,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": 1016747278,
+                                "nid": 796570866,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -33513,7 +34433,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": 1242854825,
+                                "nid": -2031472682,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -33526,7 +34446,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": 1339305306,
+                                "nid": -206828490,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -33539,7 +34459,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": 316400363,
+                                "nid": 995235940,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -44820,7 +45740,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -969372081,
+                                "nid": 629246353,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -44858,7 +45778,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 871732486,
+                                "nid": -2088200468,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -44896,7 +45816,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -2076671693,
+                                "nid": 337908811,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -44934,7 +45854,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 316358311,
+                                "nid": -271588235,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -44972,7 +45892,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1482834938,
+                                "nid": -177457642,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -45010,7 +45930,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1021134974,
+                                "nid": -2096849952,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -45028,7 +45948,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": 405435993,
+                                "nid": 1380393509,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -45041,7 +45961,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": 1434950031,
+                                "nid": -699179190,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -45054,7 +45974,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": -122612330,
+                                "nid": 1993308574,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -45067,7 +45987,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": -674497804,
+                                "nid": 673040556,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -45113,7 +46033,7 @@
                                 "InheritedType": 7
                               },
                               {
-                                "nid": 846995849,
+                                "nid": -1827239160,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -45131,7 +46051,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 672420068,
+                                "nid": 842983521,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -45149,7 +46069,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 456136641,
+                                "nid": -1306662480,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -45167,7 +46087,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -937009558,
+                                "nid": 850692403,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -45185,7 +46105,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1022704016,
+                                "nid": 24643256,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -45203,7 +46123,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -377476250,
+                                "nid": -963234495,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -45216,7 +46136,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": 1888310021,
+                                "nid": 1736284382,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -45229,7 +46149,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": -831026243,
+                                "nid": 418898879,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -45242,7 +46162,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": -1546446869,
+                                "nid": 1697292779,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -45255,7 +46175,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": 2035374811,
+                                "nid": -1512294981,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -45313,7 +46233,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1161359021,
+                                "nid": 507765138,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -45351,7 +46271,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -96314944,
+                                "nid": -1881030081,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -45389,7 +46309,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -139008573,
+                                "nid": 624860371,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -45427,7 +46347,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 101864446,
+                                "nid": -638586014,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -45465,7 +46385,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -896934267,
+                                "nid": 876340573,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -45503,7 +46423,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -96042903,
+                                "nid": 182005545,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -45516,7 +46436,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": 2139012372,
+                                "nid": 807765695,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -45529,7 +46449,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": -991187737,
+                                "nid": 1206137227,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -45542,7 +46462,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": 1503896747,
+                                "nid": -439763878,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -45555,7 +46475,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": 1924489833,
+                                "nid": -1383640343,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -56836,7 +57756,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -959885233,
+                                "nid": -248694337,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -56874,7 +57794,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 844908682,
+                                "nid": 1726650953,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -56912,7 +57832,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1371557088,
+                                "nid": 1330941778,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -56950,7 +57870,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -842314180,
+                                "nid": -1388085219,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -56988,7 +57908,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -2096277456,
+                                "nid": 585063566,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -57026,7 +57946,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1069751395,
+                                "nid": -393252459,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -57044,7 +57964,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": 1876534132,
+                                "nid": 1987729595,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -57057,7 +57977,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": 317291721,
+                                "nid": 190407698,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -57070,7 +57990,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": -1428803565,
+                                "nid": 944018855,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -57083,7 +58003,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": 574162474,
+                                "nid": -999012071,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -57129,7 +58049,7 @@
                                 "InheritedType": 7
                               },
                               {
-                                "nid": -1280770997,
+                                "nid": 1587517303,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -57147,7 +58067,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1052136300,
+                                "nid": -222118906,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -57165,7 +58085,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -2091905008,
+                                "nid": 1825918854,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -57183,7 +58103,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1293455334,
+                                "nid": -300265603,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -57201,7 +58121,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 172338391,
+                                "nid": 430679583,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -57219,7 +58139,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1787372345,
+                                "nid": -174839386,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -57232,7 +58152,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": -517226877,
+                                "nid": 1910050092,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -57245,7 +58165,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": 815706254,
+                                "nid": 1643455326,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -57258,7 +58178,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": -581705105,
+                                "nid": 599308031,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -57271,7 +58191,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": 1882024081,
+                                "nid": 1289330511,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -57329,7 +58249,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1337573735,
+                                "nid": 613901954,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -57367,7 +58287,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1850286462,
+                                "nid": -1437035809,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -57405,7 +58325,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 2022956535,
+                                "nid": -1916784583,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -57443,7 +58363,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1118719819,
+                                "nid": 2048288155,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -57481,7 +58401,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1863398634,
+                                "nid": 505935949,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -57519,7 +58439,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -443436103,
+                                "nid": 1356944350,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -57532,7 +58452,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": 1521099136,
+                                "nid": 1954238221,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -57545,7 +58465,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": -403147887,
+                                "nid": -1117639993,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -57558,7 +58478,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": -62935761,
+                                "nid": -1872574538,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -57571,7 +58491,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": -700141856,
+                                "nid": 1298761152,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -68853,7 +69773,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1395085766,
+                                "nid": -38887141,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -68891,7 +69811,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 720032675,
+                                "nid": -739236486,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -68929,7 +69849,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1562294446,
+                                "nid": -1727266469,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -68967,7 +69887,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -338391809,
+                                "nid": -153310048,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -69005,7 +69925,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 434676569,
+                                "nid": -245583767,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -69043,7 +69963,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -2058306141,
+                                "nid": 918958557,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -69061,7 +69981,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": 1752819081,
+                                "nid": 95778551,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -69074,7 +69994,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": -246047918,
+                                "nid": 1338255554,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -69087,7 +70007,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": 482939049,
+                                "nid": -478369679,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -69100,7 +70020,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": 1692818665,
+                                "nid": -640267800,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -69146,7 +70066,7 @@
                                 "InheritedType": 7
                               },
                               {
-                                "nid": 930289328,
+                                "nid": 329115109,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -69164,7 +70084,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -734531906,
+                                "nid": -818483362,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -69182,7 +70102,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 896373192,
+                                "nid": -818959228,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -69200,7 +70120,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1103110232,
+                                "nid": -1862063273,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -69218,7 +70138,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1770912238,
+                                "nid": -899096665,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -69236,7 +70156,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 730882407,
+                                "nid": 407941172,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -69249,7 +70169,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": -1318691090,
+                                "nid": 252105951,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -69262,7 +70182,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": 1434791979,
+                                "nid": -1783401460,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -69275,7 +70195,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": 106466703,
+                                "nid": -2016498019,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -69288,7 +70208,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": -1136037500,
+                                "nid": -1129377961,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -69346,7 +70266,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1484264589,
+                                "nid": -1645959090,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -69384,7 +70304,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -2115859126,
+                                "nid": -1792407764,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -69422,7 +70342,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1289698513,
+                                "nid": -1035971915,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -69460,7 +70380,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -2128292833,
+                                "nid": -635280792,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -69498,7 +70418,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1388611252,
+                                "nid": 1675266659,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -69536,7 +70456,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -921516747,
+                                "nid": 1644927239,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -69549,7 +70469,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": 891154967,
+                                "nid": -1416808098,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -69562,7 +70482,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": -1720322789,
+                                "nid": 653032150,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -69575,7 +70495,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": -1675411730,
+                                "nid": 609260408,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -69588,7 +70508,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": 548247378,
+                                "nid": 149315058,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -80869,7 +81789,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1917738152,
+                                "nid": -1214733676,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -80907,7 +81827,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1848699819,
+                                "nid": -1353351716,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -80945,7 +81865,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 136461280,
+                                "nid": 1867427997,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -80983,7 +81903,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -2087558154,
+                                "nid": -206490555,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -81021,7 +81941,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 249727635,
+                                "nid": 394816121,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -81059,7 +81979,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1784922125,
+                                "nid": 1231488107,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               },
@@ -81077,7 +81997,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": -1812886252,
+                                "nid": -267440663,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -81090,7 +82010,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": 778791504,
+                                "nid": 1932615150,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -81103,7 +82023,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": -1281396709,
+                                "nid": -265110309,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -81116,7 +82036,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": 2067846466,
+                                "nid": 285276320,
                                 "strtype": "_style/Line",
                                 "InheritedType": 1
                               }
@@ -81162,7 +82082,7 @@
                                 "InheritedType": 7
                               },
                               {
-                                "nid": 993837038,
+                                "nid": -513718586,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -81180,7 +82100,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1863718798,
+                                "nid": -2022895083,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -81198,7 +82118,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 853982723,
+                                "nid": 810530374,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -81216,7 +82136,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1067849309,
+                                "nid": -643775535,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -81234,7 +82154,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -593574923,
+                                "nid": -605556747,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -81252,7 +82172,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1261881662,
+                                "nid": 1206983938,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -81265,7 +82185,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": -1082965991,
+                                "nid": -2064779459,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -81278,7 +82198,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": 155337469,
+                                "nid": -682131975,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -81291,7 +82211,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": 285126557,
+                                "nid": -1011828523,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -81304,7 +82224,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": -731670352,
+                                "nid": -1354894928,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -81362,7 +82282,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1756703252,
+                                "nid": 427704565,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -81400,7 +82320,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1106587776,
+                                "nid": -2013871688,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -81438,7 +82358,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -799408141,
+                                "nid": -436164761,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -81476,7 +82396,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1097427032,
+                                "nid": -2087303233,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -81514,7 +82434,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1202196050,
+                                "nid": 651220055,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -81552,7 +82472,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1388730912,
+                                "nid": -1093628813,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -81565,7 +82485,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": -872819681,
+                                "nid": -1714281591,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -81578,7 +82498,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": -983421076,
+                                "nid": -1851405277,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -81591,7 +82511,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": -1059243507,
+                                "nid": -389924384,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -81604,7 +82524,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": 1213733261,
+                                "nid": -1821834721,
                                 "strtype": "_style/Size",
                                 "InheritedType": 1
                               }
@@ -82463,7 +83383,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": 1429096978,
+                    "nid": -1940799105,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -82501,7 +83421,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": 1751778892,
+                    "nid": 1404772169,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -82539,7 +83459,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": 1589806690,
+                    "nid": -2115933489,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -82577,7 +83497,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": 1833567167,
+                    "nid": -1860956710,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -82615,7 +83535,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": -812098515,
+                    "nid": 2086890007,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -82633,7 +83553,7 @@
                 "strval": "USER_1",
                 "childs": [
                   {
-                    "nid": 2065756890,
+                    "nid": 757353141,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -82646,7 +83566,7 @@
                 "strval": "USER_2",
                 "childs": [
                   {
-                    "nid": -237414544,
+                    "nid": -1668768526,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -82659,7 +83579,7 @@
                 "strval": "USER_3",
                 "childs": [
                   {
-                    "nid": 1963376787,
+                    "nid": -242431223,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -82672,7 +83592,7 @@
                 "strval": "USER_4",
                 "childs": [
                   {
-                    "nid": -1819718646,
+                    "nid": -883857630,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -83234,7 +84154,7 @@
                   {
                     "nid": -1346573177,
                     "strtype": "LABEL/Text",
-                    "strval": "10    53",
+                    "strval": "10  53",
                     "InheritedType": 10
                   },
                   {
@@ -83264,7 +84184,7 @@
                           {
                             "nid": -407586844,
                             "strtype": "_style/Text_Font",
-                            "strval": "montserrat_24",
+                            "strval": "dotnum24",
                             "InheritedType": 3
                           },
                           {
@@ -83953,7 +84873,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -402351777,
+                            "nid": 500695536,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -84030,7 +84950,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1788448655,
+                            "nid": 670050052,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -84068,7 +84988,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -667053392,
+                            "nid": -1989074878,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -84106,7 +85026,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1063519447,
+                            "nid": -700835779,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -84144,7 +85064,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1068726223,
+                            "nid": 1997824632,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -84182,7 +85102,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1346640572,
+                            "nid": 1719939593,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -84200,7 +85120,7 @@
                         "strval": "USER_1",
                         "childs": [
                           {
-                            "nid": -47111114,
+                            "nid": 1438028493,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -84213,7 +85133,7 @@
                         "strval": "USER_2",
                         "childs": [
                           {
-                            "nid": -904198242,
+                            "nid": 943895806,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -84226,7 +85146,7 @@
                         "strval": "USER_3",
                         "childs": [
                           {
-                            "nid": 1071823243,
+                            "nid": 12832595,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -84239,7 +85159,7 @@
                         "strval": "USER_4",
                         "childs": [
                           {
-                            "nid": -1630146083,
+                            "nid": 104180072,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -85272,7 +86192,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 429516754,
+                            "nid": 359886422,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -85310,7 +86230,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1212329144,
+                            "nid": 1682398521,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -85348,7 +86268,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1777505234,
+                            "nid": -22916804,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -85386,7 +86306,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -219747611,
+                            "nid": 781367227,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -85424,7 +86344,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -255117994,
+                            "nid": -674024590,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -85462,7 +86382,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -488916256,
+                            "nid": -302446008,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -85480,7 +86400,7 @@
                         "strval": "USER_1",
                         "childs": [
                           {
-                            "nid": 508469432,
+                            "nid": 2039411662,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -85493,7 +86413,7 @@
                         "strval": "USER_2",
                         "childs": [
                           {
-                            "nid": 1121809205,
+                            "nid": -796217463,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -85506,7 +86426,7 @@
                         "strval": "USER_3",
                         "childs": [
                           {
-                            "nid": -2070962049,
+                            "nid": 1382573895,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -85519,7 +86439,7 @@
                         "strval": "USER_4",
                         "childs": [
                           {
-                            "nid": 501732450,
+                            "nid": 735316173,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -86231,7 +87151,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -369527730,
+                            "nid": -265170046,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -86269,7 +87189,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1613542300,
+                            "nid": 156958174,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -86307,7 +87227,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1832311546,
+                            "nid": -433498569,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -86345,7 +87265,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1053158924,
+                            "nid": 94822431,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -86383,7 +87303,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 2128559084,
+                            "nid": 674729305,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -86421,7 +87341,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 242258990,
+                            "nid": -1185583031,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -86439,7 +87359,7 @@
                         "strval": "USER_1",
                         "childs": [
                           {
-                            "nid": 358373912,
+                            "nid": -1062158527,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -86452,7 +87372,7 @@
                         "strval": "USER_2",
                         "childs": [
                           {
-                            "nid": 1347696798,
+                            "nid": 1944526612,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -86465,7 +87385,7 @@
                         "strval": "USER_3",
                         "childs": [
                           {
-                            "nid": -1990764254,
+                            "nid": -1777137927,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -86478,7 +87398,7 @@
                         "strval": "USER_4",
                         "childs": [
                           {
-                            "nid": 852740753,
+                            "nid": 663078805,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -87591,7 +88511,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1145269120,
+                            "nid": 141298811,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -87629,7 +88549,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1043461131,
+                            "nid": 2059365742,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -87667,7 +88587,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 100365030,
+                            "nid": -1976318459,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -87705,7 +88625,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1734624176,
+                            "nid": -1281449453,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -87743,7 +88663,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 760470687,
+                            "nid": -506544428,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -87781,7 +88701,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -168236628,
+                            "nid": 115989310,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -87799,7 +88719,7 @@
                         "strval": "USER_1",
                         "childs": [
                           {
-                            "nid": -2122950899,
+                            "nid": -399615829,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -87812,7 +88732,7 @@
                         "strval": "USER_2",
                         "childs": [
                           {
-                            "nid": -565130984,
+                            "nid": 2050075016,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -87825,7 +88745,7 @@
                         "strval": "USER_3",
                         "childs": [
                           {
-                            "nid": -1385150773,
+                            "nid": -785136967,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -87838,7 +88758,7 @@
                         "strval": "USER_4",
                         "childs": [
                           {
-                            "nid": 361688010,
+                            "nid": -1186288303,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -88861,7 +89781,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1985003905,
+                            "nid": 1477789039,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -88899,7 +89819,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1532184570,
+                            "nid": 542782445,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -88937,7 +89857,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1593877102,
+                            "nid": 914172486,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -88975,7 +89895,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1948954529,
+                            "nid": 425884996,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -89013,7 +89933,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -127931586,
+                            "nid": -1630191355,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -89051,7 +89971,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 148068307,
+                            "nid": -1311461354,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -89069,7 +89989,7 @@
                         "strval": "USER_1",
                         "childs": [
                           {
-                            "nid": 1411604252,
+                            "nid": -2037530910,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -89082,7 +90002,7 @@
                         "strval": "USER_2",
                         "childs": [
                           {
-                            "nid": 262602992,
+                            "nid": 1110330587,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -89095,7 +90015,7 @@
                         "strval": "USER_3",
                         "childs": [
                           {
-                            "nid": 970816978,
+                            "nid": 2109120241,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -89108,7 +90028,7 @@
                         "strval": "USER_4",
                         "childs": [
                           {
-                            "nid": -1878675983,
+                            "nid": 945700363,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -89754,7 +90674,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1692603088,
+                            "nid": 1837823116,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -89792,7 +90712,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -568237589,
+                            "nid": -711500451,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -89830,7 +90750,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1166404812,
+                            "nid": 1908647414,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -89868,7 +90788,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1264157273,
+                            "nid": 2112907240,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -89906,7 +90826,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1768153078,
+                            "nid": -1861990798,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -89944,7 +90864,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1495221827,
+                            "nid": 1540019103,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -89962,7 +90882,7 @@
                         "strval": "USER_1",
                         "childs": [
                           {
-                            "nid": 2095041941,
+                            "nid": -454184074,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -89975,7 +90895,7 @@
                         "strval": "USER_2",
                         "childs": [
                           {
-                            "nid": -1402841464,
+                            "nid": -1985712676,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -89988,7 +90908,7 @@
                         "strval": "USER_3",
                         "childs": [
                           {
-                            "nid": 1368946671,
+                            "nid": -1564897595,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -90001,7 +90921,7 @@
                         "strval": "USER_4",
                         "childs": [
                           {
-                            "nid": 1695154309,
+                            "nid": 9212895,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -90648,7 +91568,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 452852374,
+                            "nid": -690746670,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -90686,7 +91606,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1445844947,
+                            "nid": 1730428638,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -90724,7 +91644,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 172189535,
+                            "nid": 1502159224,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -90762,7 +91682,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1621831797,
+                            "nid": 1365018802,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -90800,7 +91720,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1350950073,
+                            "nid": -2002321896,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -90838,7 +91758,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1851065159,
+                            "nid": 500308887,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -90856,7 +91776,7 @@
                         "strval": "USER_1",
                         "childs": [
                           {
-                            "nid": -230180480,
+                            "nid": -1695133728,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -90869,7 +91789,7 @@
                         "strval": "USER_2",
                         "childs": [
                           {
-                            "nid": 2115563333,
+                            "nid": -848157246,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -90882,7 +91802,7 @@
                         "strval": "USER_3",
                         "childs": [
                           {
-                            "nid": -1054281826,
+                            "nid": 1294308998,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -90895,7 +91815,7 @@
                         "strval": "USER_4",
                         "childs": [
                           {
-                            "nid": -2030568233,
+                            "nid": 1417318578,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -91489,7 +92409,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -366065521,
+                                "nid": 1863634476,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -91527,7 +92447,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -294222339,
+                                "nid": -896874823,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -91565,7 +92485,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 766946711,
+                                "nid": 938675623,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -91603,7 +92523,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -629988061,
+                                "nid": -1876323805,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -91641,7 +92561,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 537659794,
+                                "nid": -666265383,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -91679,7 +92599,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1634618884,
+                                "nid": -127042627,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -91697,7 +92617,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": -763461415,
+                                "nid": 1539358944,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -91710,7 +92630,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": 2113726083,
+                                "nid": -431003691,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -91723,7 +92643,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": -667757329,
+                                "nid": 1310944027,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -91736,7 +92656,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": 2146132709,
+                                "nid": 1281830802,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -92707,7 +93627,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": 1901522838,
+                    "nid": -171385673,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -92745,7 +93665,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": 441402254,
+                    "nid": -835382717,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -92783,7 +93703,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": 418829478,
+                    "nid": 231051861,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -92821,7 +93741,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": -2146379401,
+                    "nid": -928533124,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -92859,7 +93779,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": -2073769495,
+                    "nid": 1452497082,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -92877,7 +93797,7 @@
                 "strval": "USER_1",
                 "childs": [
                   {
-                    "nid": -388707571,
+                    "nid": -712978641,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -92890,7 +93810,7 @@
                 "strval": "USER_2",
                 "childs": [
                   {
-                    "nid": -965859632,
+                    "nid": -263916376,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -92903,7 +93823,7 @@
                 "strval": "USER_3",
                 "childs": [
                   {
-                    "nid": -703819918,
+                    "nid": 1482811041,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -92916,7 +93836,7 @@
                 "strval": "USER_4",
                 "childs": [
                   {
-                    "nid": 586480142,
+                    "nid": -1454265719,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -93589,7 +94509,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -687782709,
+                            "nid": -2022672647,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -93656,7 +94576,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1991992003,
+                            "nid": 1780574762,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -93694,7 +94614,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1014105058,
+                            "nid": -1271367615,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -93732,7 +94652,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -226354483,
+                            "nid": 69849523,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -93770,7 +94690,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -24769517,
+                            "nid": 1363737121,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -93808,7 +94728,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -220291467,
+                            "nid": 2125328262,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -93826,7 +94746,7 @@
                         "strval": "USER_1",
                         "childs": [
                           {
-                            "nid": 2113147394,
+                            "nid": -375951064,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -93839,7 +94759,7 @@
                         "strval": "USER_2",
                         "childs": [
                           {
-                            "nid": -1168023696,
+                            "nid": -2109432584,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -93852,7 +94772,7 @@
                         "strval": "USER_3",
                         "childs": [
                           {
-                            "nid": -1425140846,
+                            "nid": 1711211163,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -93865,7 +94785,7 @@
                         "strval": "USER_4",
                         "childs": [
                           {
-                            "nid": -953697664,
+                            "nid": 556307577,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -95248,7 +96168,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -699640073,
+                                "nid": -2015170059,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -95286,7 +96206,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1886325622,
+                                "nid": -12936936,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -95324,7 +96244,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1622745605,
+                                "nid": -969081472,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -95362,7 +96282,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1616901725,
+                                "nid": -798719134,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -95400,7 +96320,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1088940721,
+                                "nid": 1155228269,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -95438,7 +96358,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1809438496,
+                                "nid": 891621703,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -95456,7 +96376,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": 744989550,
+                                "nid": 799230698,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -95469,7 +96389,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": 666056560,
+                                "nid": 2108045155,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -95482,7 +96402,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": -2097487287,
+                                "nid": -1508876277,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -95495,7 +96415,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": 213109906,
+                                "nid": 931362589,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -99285,7 +100205,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 623297354,
+                                "nid": -1353847558,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -99323,7 +100243,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1638444545,
+                                "nid": -827496140,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -99361,7 +100281,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 246866190,
+                                "nid": 2074991458,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -99399,7 +100319,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 1946837614,
+                                "nid": -191564091,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -99437,7 +100357,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": -1723560619,
+                                "nid": 822340911,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -99475,7 +100395,7 @@
                                 "InheritedType": 1
                               },
                               {
-                                "nid": 2127011854,
+                                "nid": -1238245573,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               },
@@ -99493,7 +100413,7 @@
                             "strval": "USER_1",
                             "childs": [
                               {
-                                "nid": -1230728563,
+                                "nid": 1855246314,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -99506,7 +100426,7 @@
                             "strval": "USER_2",
                             "childs": [
                               {
-                                "nid": -1296329586,
+                                "nid": -769142455,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -99519,7 +100439,7 @@
                             "strval": "USER_3",
                             "childs": [
                               {
-                                "nid": -391725815,
+                                "nid": 1987461252,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -99532,7 +100452,7 @@
                             "strval": "USER_4",
                             "childs": [
                               {
-                                "nid": 2108649378,
+                                "nid": 1383134519,
                                 "strtype": "_style/Paddings",
                                 "InheritedType": 1
                               }
@@ -100946,7 +101866,7 @@
                   {
                     "nid": 397540474,
                     "strtype": "LABEL/Text",
-                    "strval": "10    53",
+                    "strval": "10  53",
                     "InheritedType": 10
                   },
                   {
@@ -100976,7 +101896,7 @@
                           {
                             "nid": 540563969,
                             "strtype": "_style/Text_Font",
-                            "strval": "montserrat_24",
+                            "strval": "dotnum24",
                             "InheritedType": 3
                           },
                           {
@@ -101665,7 +102585,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -247117969,
+                            "nid": 1529986000,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -101742,7 +102662,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -204487276,
+                            "nid": -1261784995,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -101780,7 +102700,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -1525697554,
+                            "nid": -2085166519,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -101818,7 +102738,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 1853144121,
+                            "nid": 903086653,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -101856,7 +102776,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": -834306673,
+                            "nid": 203232155,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -101894,7 +102814,7 @@
                             "InheritedType": 1
                           },
                           {
-                            "nid": 18836676,
+                            "nid": 1572096383,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           },
@@ -101912,7 +102832,7 @@
                         "strval": "USER_1",
                         "childs": [
                           {
-                            "nid": -844143539,
+                            "nid": 968122747,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -101925,7 +102845,7 @@
                         "strval": "USER_2",
                         "childs": [
                           {
-                            "nid": -1230650807,
+                            "nid": -1989656040,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -101938,7 +102858,7 @@
                         "strval": "USER_3",
                         "childs": [
                           {
-                            "nid": 493129857,
+                            "nid": 639591760,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -101951,7 +102871,7 @@
                         "strval": "USER_4",
                         "childs": [
                           {
-                            "nid": 1680601625,
+                            "nid": 1052251895,
                             "strtype": "_style/Paddings",
                             "InheritedType": 1
                           }
@@ -103340,7 +104260,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": 2045289055,
+                    "nid": -937483968,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -103378,7 +104298,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": 209986695,
+                    "nid": 50327987,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -103416,7 +104336,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": 511941196,
+                    "nid": 1204861427,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -103454,7 +104374,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": -597666039,
+                    "nid": -511304654,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -103492,7 +104412,7 @@
                     "InheritedType": 1
                   },
                   {
-                    "nid": -477714193,
+                    "nid": 1409754801,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   },
@@ -103510,7 +104430,7 @@
                 "strval": "USER_1",
                 "childs": [
                   {
-                    "nid": 1534442822,
+                    "nid": -800249290,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -103523,7 +104443,7 @@
                 "strval": "USER_2",
                 "childs": [
                   {
-                    "nid": 719182535,
+                    "nid": 795890865,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -103536,7 +104456,7 @@
                 "strval": "USER_3",
                 "childs": [
                   {
-                    "nid": 77554347,
+                    "nid": 9929311,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -103549,7 +104469,7 @@
                 "strval": "USER_4",
                 "childs": [
                   {
-                    "nid": -963536169,
+                    "nid": 1475142351,
                     "strtype": "_style/Paddings",
                     "InheritedType": 1
                   }
@@ -103809,7 +104729,7 @@
     "theme_color2": 0,
     "exportFolderPath": "D:\\99.PersonalProj\\LVGL_SquareLine\\LCDDisplayBD230330\\code",
     "projectExportFolderPath": "D:\\99.PersonalProj\\LVGL_SquareLine\\LCDDisplayBD230330",
-    "backup_cnt": 72,
+    "backup_cnt": 75,
     "autosave_cnt": 0,
     "lvgl_version": "8.3.3",
     "callfuncsexport": "C_FILE",
