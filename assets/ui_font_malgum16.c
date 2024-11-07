@@ -4,7 +4,7 @@
  * Opts: --bpp 1 --size 16 --font C:\Users\sgy00\Documents\SquareLine\DisplayBD_g2\assets\malgunbd.ttf -o C:\Users\sgy00\Documents\SquareLine\DisplayBD_g2\assets\ui_font_malgum16.c --format lvgl -r 0x20-0x7f -r 0xc11c -r 0xbc84 -r 0xc9c4 -r 0xb3d9 -r 0xc18c -r 0xc74c -r 0xc804 -r 0xb958 -r 0xc628 -r 0xb3c4 -r 0xc8fc -r 0xd3ec -r 0xd2b8 -r 0xc13c -r 0xbcf4 -r 0xb4dc -r 0xd3ec -r 0xd2b8 --no-compress --no-prefilter
  ******************************************************************************/
 
-#include "ui.h"
+#include "../ui.h"
 
 #ifndef UI_FONT_MALGUM16
 #define UI_FONT_MALGUM16 1

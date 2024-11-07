@@ -4,7 +4,7 @@
  * Opts: --bpp 8 --size 24 --font D:\99.PersonalProj\LVGL_SquareLine\LCDDisplayBD230330\assets\number_font.ttf -o D:\99.PersonalProj\LVGL_SquareLine\LCDDisplayBD230330\assets\ui_font_dotnum24.c --format lvgl -r 0x20-0x7f --no-compress --no-prefilter
  ******************************************************************************/
 
-#include "ui.h"
+#include "../ui.h"
 
 #ifndef UI_FONT_DOTNUM24
 #define UI_FONT_DOTNUM24 1

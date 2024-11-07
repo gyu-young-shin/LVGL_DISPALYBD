@@ -4,7 +4,7 @@
  * Opts: --bpp 1 --size 20 --font D:\99.PersonalProj\LVGL_SquareLine\LCDDisplayBD230330\assets\ChosunGu.TTF -o D:\99.PersonalProj\LVGL_SquareLine\LCDDisplayBD230330\assets\ui_font_chosungu20.c --format lvgl -r 0x20-0x7f -r 0xc9c0 -r 0xc18d -r 0xc801 -r 0xc778 -r 0xac10 -r 0xc2dc -r 0xb97c -r 0xd1b5 -r 0xd574 -r 0xbaa8 -r 0xd130 -r 0xc758 -r 0xc0c1 -r 0xd0dc -r 0xc640 -r 0xbcc0 -r 0xd654 -r 0xb4f1 -r 0xc744 -r 0xd655 -r 0xb85c -r 0xadf8 -r 0xd615 -r 0xbb38 -r 0xc81c -r 0xac04 -r 0xbcc4 -r 0xae30 -r 0xb85d -r 0xbcf8 -r 0xc801 -r 0xc778 -r 0xd658 -r 0xacbd -r 0xc124 -r 0xc815 -r 0xc11c -r 0xbc84 --no-compress --no-prefilter
  ******************************************************************************/
 
-#include "ui.h"
+#include "../ui.h"
 
 #ifndef UI_FONT_CHOSUNGU20
 #define UI_FONT_CHOSUNGU20 1
