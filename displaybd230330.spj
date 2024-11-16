@@ -146,7 +146,7 @@
                   {
                     "nid": -1119435049,
                     "strtype": "LABEL/Text",
-                    "strval": "유도전동기 고장 진단 예측 시스템 ",
+                    "strval": "철도차량용 냉각팬 고장진단 예측 시스템",
                     "InheritedType": 10
                   },
                   {
@@ -222,7 +222,224 @@
                   {
                     "nid": -1991003296,
                     "strtype": "LABEL/Recolor",
+                    "strval": "True",
+                    "InheritedType": 2
+                  }
+                ],
+                "saved_objtypeKey": "LABEL"
+              },
+              {
+                "guid": "GUID4629421-205539S7563322",
+                "deepid": 379628894,
+                "dont_export": false,
+                "locked": false,
+                "properties": [
+                  {
+                    "nid": -1459122183,
+                    "strtype": "OBJECT/Name",
+                    "strval": "Screen1 Label1",
+                    "InheritedType": 10
+                  },
+                  {
+                    "nid": -540507828,
+                    "strtype": "LABEL/Layout",
+                    "InheritedType": 1
+                  },
+                  {
+                    "Flow": 0,
+                    "Wrap": false,
+                    "Reversed": false,
+                    "MainAlignment": 0,
+                    "CrossAlignment": 0,
+                    "TrackAlignment": 0,
+                    "LayoutType": 0,
+                    "nid": 1099798606,
+                    "strtype": "LABEL/Layout_type",
+                    "strval": "No_layout",
+                    "InheritedType": 13
+                  },
+                  {
+                    "nid": 1104458689,
+                    "strtype": "OBJECT/Transform",
+                    "InheritedType": 1
+                  },
+                  {
+                    "nid": 1441504350,
+                    "flags": 17,
+                    "strtype": "OBJECT/Position",
+                    "intarray": [
+                      16,
+                      2
+                    ],
+                    "InheritedType": 7
+                  },
+                  {
+                    "nid": 1561411386,
+                    "flags": 51,
+                    "strtype": "OBJECT/Size",
+                    "intarray": [
+                      1,
+                      1
+                    ],
+                    "InheritedType": 7
+                  },
+                  {
+                    "nid": 820433391,
+                    "strtype": "OBJECT/Align",
+                    "strval": "CENTER",
+                    "InheritedType": 3
+                  },
+                  {
+                    "nid": -832719863,
+                    "flags": 1048576,
+                    "strtype": "OBJECT/Flags",
+                    "InheritedType": 1
+                  },
+                  {
+                    "nid": -1920567129,
+                    "strtype": "OBJECT/Clickable",
                     "strval": "False",
+                    "InheritedType": 2
+                  },
+                  {
+                    "nid": 962114659,
+                    "strtype": "LABEL/Flex_in_new_track",
+                    "strval": "False",
+                    "InheritedType": 2
+                  },
+                  {
+                    "nid": -414668051,
+                    "strtype": "OBJECT/Scrollbar_mode",
+                    "strval": "AUTO",
+                    "InheritedType": 3
+                  },
+                  {
+                    "nid": -522073320,
+                    "strtype": "OBJECT/Scroll_direction",
+                    "strval": "ALL",
+                    "InheritedType": 3
+                  },
+                  {
+                    "nid": 590860869,
+                    "flags": 1048576,
+                    "strtype": "OBJECT/States",
+                    "InheritedType": 1
+                  },
+                  {
+                    "nid": 751715814,
+                    "strtype": "LABEL/User_1",
+                    "strval": "False",
+                    "InheritedType": 2
+                  },
+                  {
+                    "nid": -1273496859,
+                    "strtype": "LABEL/User_2",
+                    "strval": "False",
+                    "InheritedType": 2
+                  },
+                  {
+                    "nid": -1878699291,
+                    "strtype": "LABEL/User_3",
+                    "strval": "False",
+                    "InheritedType": 2
+                  },
+                  {
+                    "nid": -1217877070,
+                    "strtype": "LABEL/User_4",
+                    "strval": "False",
+                    "InheritedType": 2
+                  },
+                  {
+                    "nid": 1300836921,
+                    "strtype": "LABEL/Label",
+                    "InheritedType": 1
+                  },
+                  {
+                    "nid": 1507796444,
+                    "strtype": "LABEL/Long_mode",
+                    "strval": "WRAP",
+                    "InheritedType": 3
+                  },
+                  {
+                    "nid": -1119435049,
+                    "strtype": "LABEL/Text",
+                    "strval": "철도차량용 냉각팬 고장진단 예측 시스템",
+                    "InheritedType": 10
+                  },
+                  {
+                    "part": "lv.PART.MAIN",
+                    "childs": [
+                      {
+                        "nid": -1315666992,
+                        "strtype": "_style/StyleState",
+                        "strval": "DEFAULT",
+                        "childs": [
+                          {
+                            "nid": 1106601950,
+                            "strtype": "_style/Text",
+                            "InheritedType": 1
+                          },
+                          {
+                            "nid": 972230335,
+                            "strtype": "_style/Text_Color",
+                            "intarray": [
+                              255,
+                              255,
+                              255,
+                              255
+                            ],
+                            "InheritedType": 7
+                          },
+                          {
+                            "nid": 1106659280,
+                            "strtype": "_style/Text_Align",
+                            "strval": "AUTO",
+                            "InheritedType": 3
+                          },
+                          {
+                            "nid": -1393504220,
+                            "strtype": "_style/Text_Font",
+                            "strval": "Nanum40",
+                            "InheritedType": 3
+                          },
+                          {
+                            "nid": -1045799518,
+                            "strtype": "_style/Border",
+                            "InheritedType": 1
+                          },
+                          {
+                            "nid": 1144890400,
+                            "strtype": "_style/Outline",
+                            "InheritedType": 1
+                          },
+                          {
+                            "nid": -745665489,
+                            "strtype": "_style/Shadow",
+                            "InheritedType": 1
+                          },
+                          {
+                            "nid": 1956164284,
+                            "strtype": "_style/Blend",
+                            "InheritedType": 1
+                          },
+                          {
+                            "nid": 1359305877,
+                            "strtype": "_style/Paddings",
+                            "InheritedType": 1
+                          }
+                        ],
+                        "InheritedType": 1
+                      }
+                    ],
+                    "nid": -362589862,
+                    "strtype": "LABEL/Style_main",
+                    "strval": "lv.PART.MAIN, Text, Rectangle, Pad, Transform",
+                    "InheritedType": 11
+                  },
+                  {
+                    "nid": -1991003296,
+                    "strtype": "LABEL/Recolor",
+                    "strval": "True",
                     "InheritedType": 2
                   }
                 ],
@@ -266,8 +483,8 @@
                 "flags": 17,
                 "strtype": "OBJECT/Position",
                 "intarray": [
-                  -1,
-                  -175
+                  0,
+                  -174
                 ],
                 "InheritedType": 7
               },
@@ -84254,7 +84471,7 @@
     "uiExportFolderPath": "D:\\2.Project\\work\\Korail_project\\LVGL_DISPALYBD\\code_1107",
     "projectExportFolderPath": "D:\\99.PersonalProj\\LVGL_SquareLine\\LCDDisplayBD230330",
     "custom_variable_prefix": "uic",
-    "backup_cnt": 87,
+    "backup_cnt": 90,
     "autosave_cnt": 0,
     "lvgl_version": "8.3.6",
     "callfuncsexport": "C_FILE",
